@@ -1,1 +1,1 @@
-<img src="tindog.jpg" alt="tindog">
+<img src="tindog.png" alt="tindog">
