@@ -1,1 +1,1 @@
-TinDog Starting Files
+<img src="tindog.jpg" alt="tindog">
